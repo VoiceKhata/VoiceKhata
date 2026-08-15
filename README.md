@@ -39,6 +39,10 @@ VoiceKhata is a simple voice-based **Khata management demo** for recording custo
 - **Speech:** Browser Web Speech API
 - **AI:** OpenAI API
 
+## Project Presentation
+
+📄 [View VoiceKhata Presentation](docs/VoiceKhata-presentation.pdf)
+
 ## Important
 
 VoiceKhata is currently a **demo/MVP**. The project is intended to demonstrate voice-based Khata management and is not a production accounting system.
