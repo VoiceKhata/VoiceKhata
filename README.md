@@ -12,9 +12,9 @@
 
 **Team Members:**
 - Avika Srivastatva — avika.srivastava.280@gmail.com — UI/UX + Deployment and Analytics
-- Ayushi Yadav —  — AI & Voice Integration
-- Gauri Mishra —  — Backend
-- Gayatri Bose —  — Backend 
+- Ayushi Yadav — yayushi1030@gmail.com — AI & Voice Integration
+- Gauri Mishra — gaurimishra9b116mcc@gmail.com — Backend
+- Gayatri Bose — bosegayatri7773@gmail.com — Backend 
 
 ## About
 
